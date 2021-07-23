@@ -36,4 +36,19 @@ print(2 ** 3)
 # python is loved by data scientist and mathematicians
 ```
 
+### 22. Number Manipulation and F Strings in Python
+
+f-string
+
+```py
+score = 0
+height = 1.8
+isWinning = True
+# this is pain in the axx
+print("your score is " + str(score) + ", your height is " + str(height) + "your are winning is " + str(isWinning))
+
+# f-String : formatted string literals
+print(f"your score is {score}, your height is {height}, your are winning is {isWinning}")
+```
+
 </details>
