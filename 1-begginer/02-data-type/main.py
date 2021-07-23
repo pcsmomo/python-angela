@@ -25,3 +25,7 @@ print(type(20))
 
 print(70 + float("100.5"))
 print(str(70) + str(100))
+
+
+print(type(6/3)) # float
+print(2 ** 3) # This built-in exponent oprator ** is one of the reason 

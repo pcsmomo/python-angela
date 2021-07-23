@@ -27,4 +27,13 @@ print("Your age is " + 20)
 # TypeError: can only concatenate str (not "int") to str
 ```
 
+### 20. Mathematical Operations in Python
+
+```py
+print(2 ** 3)
+# 8
+# This built-in exponent oprator ** is one of the reasons
+# python is loved by data scientist and mathematicians
+```
+
 </details>
