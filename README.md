@@ -9,6 +9,13 @@
 <details>
   <summary>Click to Contract/Expend</summary>
 
-### 5. Printing to the Console in Python
+### 17. Python Primitive Data Types
+
+Python ignores underscore in Integer
+
+```py
+print(123_456_789)
+# 123456789
+```
 
 </details>
