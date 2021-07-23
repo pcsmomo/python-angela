@@ -18,4 +18,13 @@ print(123_456_789)
 # 123456789
 ```
 
+### 18. Type Error, Type Checking and Type Conversion
+
+Python is stricly checking types
+
+```py
+print("Your age is " + 20)
+# TypeError: can only concatenate str (not "int") to str
+```
+
 </details>

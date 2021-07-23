@@ -16,3 +16,12 @@ print(123_456_789)
 #Boolean
 False
 True
+
+# print("Your age is " + 20)
+print("Your age is " + str(20))
+
+print("my name")
+print(type(20))
+
+print(70 + float("100.5"))
+print(str(70) + str(100))
