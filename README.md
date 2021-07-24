@@ -62,4 +62,8 @@ print("{:.2f}".format(pi))
 print("{:.2f}".format(round(pi, 2)))
 ```
 
+### 28. [Interactive Coding Exercise] Odd or Even? Introducing the Modulo
+
+% : Mmodulo Oprator (Rest)
+
 </details>
