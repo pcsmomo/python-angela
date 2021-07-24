@@ -74,4 +74,8 @@ print("{:.2f}".format(round(pi, 2)))
 
 Try to write flow chart first before implements
 
+### 32. Multiple If Statements in Succession
+
+Indentation in python is very important
+
 </details>
