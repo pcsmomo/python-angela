@@ -78,4 +78,20 @@ Try to write flow chart first before implements
 
 Indentation in python is very important
 
+### 36. Day 3 Project: Treasure Island
+
+[ASCII ART](https://ascii.co.uk/art)
+
+```py
+# 3 single quotes
+print('''
+            __  __
+           / _|/ _|
+  ___ ___ | |_| |_ ___  ___
+ / __/ _ \|  _|  _/ _ \/ _ \\
+| (_| (_) | | | ||  __/  __/
+ \___\___/|_| |_| \___|\___|
+''')
+```
+
 </details>
