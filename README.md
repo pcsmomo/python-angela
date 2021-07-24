@@ -2,6 +2,10 @@
 
 100 Days of Code - The Complete Python Pro Bootcamp for 2021 by Dr. Angela Yu
 
+> File name prefix
+> prefix x- : [Interactive Coding Exercise] \
+> prefix z- : [Project]
+
 # Details
 
 ## Beginner
@@ -65,5 +69,9 @@ print("{:.2f}".format(round(pi, 2)))
 ### 28. [Interactive Coding Exercise] Odd or Even? Introducing the Modulo
 
 % : Mmodulo Oprator (Rest)
+
+### 31. [Interactive Coding Exercise] Leap Year
+
+Try to write flow chart first before implements
 
 </details>
