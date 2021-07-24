@@ -51,4 +51,15 @@ print("your score is " + str(score) + ", your height is " + str(height) + "your 
 print(f"your score is {score}, your height is {height}, your are winning is {isWinning}")
 ```
 
+### 24. Day 2 Project: Tip Calculator
+
+```py
+# 4 different ways to format to two decimal points
+pi = 3.14159
+print("%.2f" % pi)
+print("%.2f" % round(pi, 2))
+print("{:.2f}".format(pi))
+print("{:.2f}".format(round(pi, 2)))
+```
+
 </details>
