@@ -9,3 +9,9 @@ states_of_america.append("Virginia")
 states_of_america.extend(["New York", "North Carolina"])
 
 print(states_of_america)
+
+fruits = ["Strawberries", "Nectarines", "Apples"]
+vegetables = ["Spinach", "Kale"]
+
+dirty_dozen = [fruits, vegetables]
+print(dirty_dozen)
