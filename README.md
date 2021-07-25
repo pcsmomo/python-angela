@@ -102,4 +102,8 @@ print('''
 
 [AskPython Random Module](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 
+### 47. Day 5 Goals: what we will make by the end of the day
+
+[Check if you account hacked](https://haveibeenpwned.com/)
+
 </details>
