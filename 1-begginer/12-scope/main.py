@@ -17,8 +17,8 @@ print(f"enemies outside function: {enemies}")
 # print(new_enemy)
 
 
+# 116. How to Modify a Global Variable
 ################### Scope ####################
-
 enemies = 1
 
 # def increase_enemies():
@@ -32,3 +32,9 @@ def increase_enemies():
 
 enemies = increase_enemies()
 print(f"enemies outside function: {enemies}")
+
+
+# 117. Python Constants and Global Scope
+PI = 3.14159
+URL = "https://www.google.com"
+TWITTER_HANDLE = "@yu_angela"
