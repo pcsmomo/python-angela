@@ -110,4 +110,8 @@ print('''
 
 [Python Style Guide](https://www.python.org/dev/peps/pep-0008/#indentation)
 
+### 118. Introducing the Final Project: The Number Guessing Game
+
+[My Own ASCII Text](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
+
 </details>
