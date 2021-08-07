@@ -117,3 +117,17 @@ print('''
 [Python Tutor : Online Python Debugging Tool](http://pythontutor.com/)
 
 </details>
+
+## Intermediate
+
+<details open>
+  <summary>Click to Contract/Expend</summary>
+
+Using Todo List
+
+```py
+# TODO: 1. Print report of all coffee machine resource
+# TODO: 2. Check resources sufficient to make drink order
+```
+
+</details>
