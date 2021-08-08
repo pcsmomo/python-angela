@@ -150,4 +150,32 @@ Multi Selection with a cursor
 
 [turtle color](https://cs111.wellesley.edu/labs/lab01/colors)
 
+### 147. Practice Modifying Object Attributes and Calling Methods
+
+[Pypi - search python package](https://pypi.org/)\
+[package - prettytable](https://pypi.org/project/prettytable/)\
+[prettytable - doc](https://code.google.com/archive/p/prettytable/wikis/Tutorial.wiki)\
+[Pokemon Pokedex](https://pokemondb.net/pokedex/game/x-y)
+
+#### Using python package
+
+```sh
+# setup venv
+python3 -m venv venv
+
+# install new package, prettytable
+. venv/bin/activate
+(venv) python3 -m pip install prettytable
+deactivate
+
+# run python code with the environment installed new packages
+venv/bin/python [python file path]
+```
+
 </details>
+
+```sh
+# To run python3 in the vertual environment
+venv/bin/python3 [relative path]
+venv/bin/python3 2-intermediate/16-OOP/main.py
+```
