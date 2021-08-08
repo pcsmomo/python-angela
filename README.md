@@ -144,4 +144,10 @@ Multi Selection with a cursor
 - VSCode, PyCharm: Option(Alt) + Shift + Drag mouse cursor
 - Sublime : Option(Alt) + Drag mouse cursor
 
+### 145. Constructing Objects and Accessing their Attributes and Methods
+
+[turtle](https://docs.python.org/3/library/turtle.html)
+
+[turtle color](https://cs111.wellesley.edu/labs/lab01/colors)
+
 </details>
