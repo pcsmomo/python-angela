@@ -123,11 +123,25 @@ print('''
 <details open>
   <summary>Click to Contract/Expend</summary>
 
-Using Todo List
+### 140. Introduction & Requirements for the Coffee Machine Project
+
+1. Using Todo List
 
 ```py
 # TODO: 1. Print report of all coffee machine resource
 # TODO: 2. Check resources sufficient to make drink order
 ```
+
+2. [Searching Emoji](https://emojipedia.org/)
+3. [Mac Emoji Shortcut](https://support.apple.com/en-gb/guide/mac-help/mchlp1560/mac) : Edit > Emoji & Symbols (Ctrl + Command + Space)
+4. [Windows Emoji Shortcut](https://support.microsoft.com/en-gb/windows/windows-10-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942) : Windows logo key + .(period)
+5. [PyCharm keyoard shortcuts](https://www.jetbrains.com/help/pycharm/mastering-keyboard-shortcuts.html)
+
+### 141. Solution & Walkthrough for the Coffee Machine Code
+
+Multi Selection with a cursor
+
+- VSCode, PyCharm: Option(Alt) + Shift + Drag mouse cursor
+- Sublime : Option(Alt) + Drag mouse cursor
 
 </details>
