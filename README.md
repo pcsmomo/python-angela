@@ -172,6 +172,12 @@ deactivate
 venv/bin/python [python file path]
 ```
 
+### 152. How to create your own Class in Python
+
+- PascalCase
+- camelCase
+- snake_case
+
 </details>
 
 ```sh
