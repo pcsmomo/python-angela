@@ -178,6 +178,10 @@ venv/bin/python [python file path]
 - camelCase
 - snake_case
 
+### 160. The Benefits of OOP: Use Open Trivia DB to Get New Questions
+
+[Open Trivia Quiz Database](https://opentdb.com/)
+
 </details>
 
 ```sh
