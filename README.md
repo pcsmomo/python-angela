@@ -186,6 +186,10 @@ venv/bin/python [python file path]
 
 [tkinter — Python interface to Tcl/Tk](https://docs.python.org/3/library/tkinter.html#module-tkinter)
 
+### 169. Python Tuples and How to Generate Random RGB Colours
+
+[Tuple : constant list](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+
 </details>
 
 ```sh
