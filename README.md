@@ -190,6 +190,12 @@ venv/bin/python [python file path]
 
 [Tuple : constant list](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
 
+### 225. Reading CSV Data in Python
+
+[Pandas - Data Analysis Library](https://pandas.pydata.org/)
+
+[Pandas Documents](https://pandas.pydata.org/docs/index.html)
+
 </details>
 
 ```sh
