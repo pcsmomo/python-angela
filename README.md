@@ -196,6 +196,10 @@ venv/bin/python [python file path]
 
 [Pandas Documents](https://pandas.pydata.org/docs/index.html)
 
+### 226. DataFrames & Series: Working with Rows & Columns
+
+> Wow.... Python is getting more interesting
+
 </details>
 
 ```sh
