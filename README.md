@@ -200,6 +200,14 @@ venv/bin/python [python file path]
 
 > Wow.... Python is getting more interesting
 
+### 232. How to Create Lists using List Comprehension
+
+List Comprehension is like Array.map in javascript
+
+```py
+new_numbers = [n * n for n in numbers]
+```
+
 </details>
 
 ```sh
