@@ -8,6 +8,15 @@
 
 # Details
 
+## PyCharm Shortcut
+
+⇧ ⌃ ⌥ ⌘ ⬆️ ⬇️ ⬅️ ➡️
+
+- ⌥ ⌘ L : Reformat Code
+- ⌃ ⌥ R : Run
+- ⌃ R : Run recent execution
+- Fn ⬆️ : Go to the top
+
 ## Beginner
 
 <details>
@@ -207,6 +216,10 @@ List Comprehension is like Array.map in javascript
 ```py
 new_numbers = [n * n for n in numbers]
 ```
+
+### 245. Creating Windows and Labels with Tkinter
+
+[tkinter - the Packer Document](https://docs.python.org/3/library/tkinter.html#the-packer)
 
 </details>
 
