@@ -221,6 +221,18 @@ new_numbers = [n * n for n in numbers]
 
 [tkinter - the Packer Document](https://docs.python.org/3/library/tkinter.html#the-packer)
 
+### 248. \*\*kwargs: Many Keyword Arguments
+
+```py
+class Car:
+    def __init__(self, **kw):
+        self.make = kw["make"]
+        self.model = kw["model"]
+        # colour and seats are optional
+        self.colour = kw.get("colour")
+        self.seats = kw.get("seats")
+```
+
 </details>
 
 ```sh
