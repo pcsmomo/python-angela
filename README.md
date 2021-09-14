@@ -233,6 +233,10 @@ class Car:
         self.seats = kw.get("seats")
 ```
 
+### 254. How to work with the Canvas Widget and Add Images to Tkinter
+
+[Color Hunt - Color matching](https://colorhunt.co/)
+
 </details>
 
 ```sh
