@@ -16,6 +16,7 @@
 - ⌃ ⌥ R : Run
 - ⌃ R : Run recent execution
 - Fn ⬆️ : Go to the top
+- ⌃ G or ⇧ ⌃ G : Select/unselect the next occurrence
 
 ## Beginner
 
