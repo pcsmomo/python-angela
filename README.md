@@ -242,6 +242,10 @@ class Car:
 
 [Canvas Tk Doc](https://tkdocs.com/tutorial/canvas.html)
 
+### 264. Challenge 3 - Saving Data to File
+
+with keyword close file automatically
+
 </details>
 
 ```sh
