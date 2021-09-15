@@ -238,6 +238,10 @@ class Car:
 
 [Color Hunt - Color matching](https://colorhunt.co/)
 
+### 261. Challenge 1 - Working with Images and Setting up the Canvas
+
+[Canvas Tk Doc](https://tkdocs.com/tutorial/canvas.html)
+
 </details>
 
 ```sh
