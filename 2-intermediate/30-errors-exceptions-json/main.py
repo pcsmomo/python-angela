@@ -16,3 +16,4 @@ else:
 finally:
     file.close()
     print("File was closed.")
+    # raise TypeError("This is an error that I made up.")
