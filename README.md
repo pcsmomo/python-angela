@@ -246,6 +246,14 @@ class Car:
 
 with keyword close file automatically
 
+### 266. Generate a Password & Copy it to the Clipboard
+
+[pyperclip - clipboard](https://pypi.org/project/pyperclip/)
+
+```sh
+(venv) python3 -m pip install pyperclip
+```
+
 </details>
 
 ```sh
