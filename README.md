@@ -254,6 +254,13 @@ with keyword close file automatically
 (venv) python3 -m pip install pyperclip
 ```
 
+### 273. Write, read and update JSON data in the Password Manager
+
+- Write: json.dump()
+- Read: json.load()
+- Update: json.update()
+
+
 </details>
 
 ```sh
