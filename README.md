@@ -260,6 +260,9 @@ with keyword close file automatically
 - Read: json.load()
 - Update: json.update()
 
+### 280. Solution & Walkthrough for Creating New Flash Cards
+
+[pandas.DataFrame.to_dict](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html)
 
 </details>
 
