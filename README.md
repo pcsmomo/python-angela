@@ -278,6 +278,21 @@ with keyword close file automatically
    1. the time is UTC time
    2. command : python3 main.py
 
+But Python Anywhere service has expiry date which is annoying.
+
+#### setup crontab on my local to send birthday wish email
+
+1. Copy all files in my dropbox folder
+2. install python
+   1. `brew update`
+   2. `brew instal python`
+3. `python3 -m pip install virtualenv`
+4. go to the path and `python3 -m venv env`
+5. `. env/bin/activate`
+6. `pip install pandas`
+7. crontab -e
+8. `* 11 * * * cd /Users/momo/Dropbox/Dev/python-small-program/birthday-wisher/ && . env/bin/activate && python3 main.py`
+
 </details>
 
 ```sh
