@@ -264,6 +264,20 @@ with keyword close file automatically
 
 [pandas.DataFrame.to_dict](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_dict.html)
 
+### 292. Run Your Python Code in the Cloud!
+
+[Python Anywhere](https://www.pythonanywhere.com/)
+
+1. Craet an account
+2. Upload all files
+3. Open bash console (test running)
+   ```sh
+   python3 main.py
+   ```
+4. Tasks -> Add scheduled task
+   1. the time is UTC time
+   2. command : python3 main.py
+
 </details>
 
 ```sh
