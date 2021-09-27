@@ -293,6 +293,16 @@ But Python Anywhere service has expiry date which is annoying.
 7. crontab -e
 8. `* 11 * * * cd /Users/momo/Dropbox/Dev/python-small-program/birthday-wisher/ && . env/bin/activate && python3 main.py`
 
+### 295. API Endpoints and Making API Calls
+
+[International Space Station Current Location](http://open-notify.org/Open-Notify-API/ISS-Location-Now/)
+
+[pypi requests](https://pypi.org/project/requests/)
+
+```sh
+python -m pip install requests
+```
+
 </details>
 
 ```sh
