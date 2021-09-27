@@ -303,6 +303,18 @@ But Python Anywhere service has expiry date which is annoying.
 python -m pip install requests
 ```
 
+### 296. Working with Responses: HTTP Codes, Exceptions & JSON Data
+
+- [HTTP Status Codes](https://httpstatuses.com/)
+  - 1XX: Hold On
+  - 2XX: Here You Go
+  - 3XX: Go Away
+  - 4XX: You Screwed Up
+  - 5XX: I Screwed Up
+- [Python Requests Module Documentation](https://docs.python-requests.org/en/latest/)
+  - [Errors and Exceptions](https://docs.python-requests.org/en/latest/user/quickstart/#errors-and-exceptions)
+- [Convert Lat Long to Address](https://www.latlong.net/Show-Latitude-Longitude.html)
+
 </details>
 
 ```sh
