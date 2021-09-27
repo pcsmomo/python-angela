@@ -315,6 +315,10 @@ python -m pip install requests
   - [Errors and Exceptions](https://docs.python-requests.org/en/latest/user/quickstart/#errors-and-exceptions)
 - [Convert Lat Long to Address](https://www.latlong.net/Show-Latitude-Longitude.html)
 
+### 297. Challenge - Build a Kanye Quotes App using the Kanye Rest API
+
+[Kanye rest](https://kanye.rest/)
+
 </details>
 
 ```sh
