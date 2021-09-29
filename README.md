@@ -323,6 +323,10 @@ python -m pip install requests
 
 [Sunset and sunrise times API](https://sunrise-sunset.org/api)
 
+### 301. Trivia Question API Challenge
+
+[Open Trivia Database](https://opentdb.com/)
+
 </details>
 
 ```sh
