@@ -323,7 +323,7 @@ python -m pip install requests
 
 [Sunset and sunrise times API](https://sunrise-sunset.org/api)
 
-### 301. Trivia Question API Challenge
+### 300. Day 34 Goals: what you will make by the end of the day
 
 [Open Trivia Database](https://opentdb.com/)
 
