@@ -327,6 +327,11 @@ python -m pip install requests
 
 [Open Trivia Database](https://opentdb.com/)
 
+### 303. Unescaping HTML Entities
+
+- [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
+- [Formatter - HTML Escape/Unescape](https://www.freeformatter.com/html-escape.html)
+
 </details>
 
 ```sh
