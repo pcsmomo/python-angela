@@ -332,6 +332,16 @@ python -m pip install requests
 - [HTML Entities](https://www.w3schools.com/html/html_entities.asp)
 - [Formatter - HTML Escape/Unescape](https://www.freeformatter.com/html-escape.html)
 
+### 311. Using API Keys to Authenticate and Get the Weather from OpenWeatherMap
+
+- [Open Weather Map API](https://openweathermap.org/)
+- [OWM - Current Weather Data](https://openweathermap.org/current)
+- [OWM - One Call API](https://openweathermap.org/api/one-call-api)
+- [OWM - My API Key](https://home.openweathermap.org/api_keys)
+
+- [Latitude Longitude Finder](https://www.latlong.net/)
+- [JSON Viewer](http://jsonviewer.stack.hu/)
+
 </details>
 
 ```sh
