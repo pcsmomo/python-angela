@@ -342,6 +342,11 @@ python -m pip install requests
 - [Latitude Longitude Finder](https://www.latlong.net/)
 - [JSON Viewer](http://jsonviewer.stack.hu/)
 
+### 312. Challenge - Check if it Will Rain in the Next 12 Hours
+
+- [OWM - Weather Condition Code](https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2)
+- [Ventusky Weather Map](https://www.ventusky.com/?p=-38.2;147.8;5&l=rain-3h)
+
 </details>
 
 ```sh
