@@ -1,11 +1,20 @@
 import requests
+from twilio.rest import Client
 
+# Open Weather Map
 OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
 api_key = "<API KEY>"
+
+# Twilio SMS
+account_sid = "TWILIO_ACCOUNT_SID"
+auth_token = "TWILIO_AUTH_TOKEN"
 
 # Melbourne
 MY_LAT = -37.8136
 MY_LONG = 144.9631
+# MY_LAT = -37.17
+# MY_LONG = 156.22
+
 
 weather_params = {
     "lat": MY_LAT,
@@ -28,4 +37,12 @@ for hour_data in weather_slice:
         will_rain = True
 
 if will_rain:
-    print("Bring an umbrella.")
+    client = Client(account_sid, auth_token)
+    message = client.messages \
+        .create(
+        body="It's going to rain today. Remember to bring an ☔️",
+        from_='+12345678901',
+        to='+61123456789'
+    )
+    print(message.sid)
+    print(message.status)
