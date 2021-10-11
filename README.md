@@ -359,3 +359,28 @@ python -m pip install requests
 venv/bin/python3 [relative path]
 venv/bin/python3 2-intermediate/16-OOP/main.py
 ```
+
+### 314. Use PythonAnywhere to Automate the Python Script
+
+#### setup crontab on my local to send birthday wish email
+
+1. Copy all files in my dropbox folder
+2. install python
+   1. `brew update`
+   2. `brew instal python`
+3. `python3 -m pip install virtualenv`
+4. go to the path and `python3 -m venv env`
+5. `. env/bin/activate`
+6. `pip install twilio`
+7. crontab -e
+8. `* 07 * * * cd /Users/momo/Dropbox/Dev/python-small-program/rain-alert/ && . env/bin/activate && python3 main.py`
+
+### 315. Understanding Environment Variables and Hiding API Keys
+
+```sh
+export OWM_API_KEY=
+export TWILIO_ACCOUNT_SID=
+export TWILIO_AUTH_TOKEN=
+```
+
+[List of APIs](https://apilist.fun/)
