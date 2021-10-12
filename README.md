@@ -388,7 +388,7 @@ export TWILIO_AUTH_TOKEN=
 ### 316. Day 36 Goals: what you will make by the end of the day
 
 - [TSLA Stock Price](https://www.tradingview.com/symbols/NASDAQ-TSLA/)
-- [Alpha Vantage API - Stock Price API](https://www.alphavantage.co/documentation/)
+- [Alpha Vantage API - Stock Price API](https://www.alphavantage.co/documentation/#daily)
 - [News API](https://newsapi.org/)
 - [Twilio API](https://www.twilio.com/)
 
