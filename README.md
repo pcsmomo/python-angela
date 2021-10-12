@@ -352,8 +352,6 @@ python -m pip install requests
 
 [Twilio SMS Python Quickstart Document](https://www.twilio.com/docs/sms/quickstart/python)
 
-</details>
-
 ```sh
 # To run python3 in the vertual environment
 venv/bin/python3 [relative path]
@@ -384,3 +382,14 @@ export TWILIO_AUTH_TOKEN=
 ```
 
 [List of APIs](https://apilist.fun/)
+
+## Section 36: Day 36 - Intermediate+ Stock Trading News Alert Project
+
+### 316. Day 36 Goals: what you will make by the end of the day
+
+- [TSLA Stock Price](https://www.tradingview.com/symbols/NASDAQ-TSLA/)
+- [Alpha Vantage API - Stock Price API](https://www.alphavantage.co/documentation/)
+- [News API](https://newsapi.org/)
+- [Twilio API](https://www.twilio.com/)
+
+</details>
