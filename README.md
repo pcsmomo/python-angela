@@ -392,4 +392,11 @@ export TWILIO_AUTH_TOKEN=
 - [News API](https://newsapi.org/)
 - [Twilio API](https://www.twilio.com/)
 
+## Section 37: Day 37 - Intermediate+ Habit Tracking Project: API Post Requests & Headers
+
+### 322. HTTP Post Requests
+
+- [Pixela API](https://pixe.la/)
+- [Pixela API - Document](https://docs.pixe.la/)
+
 </details>
