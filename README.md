@@ -399,4 +399,12 @@ export TWILIO_AUTH_TOKEN=
 - [Pixela API](https://pixe.la/)
 - [Pixela API - Document](https://docs.pixe.la/)
 
+### 323. Advanced Authentication using an HTTP Header
+
+My Graph : https://pixe.la/v1/users/noahkim/graphs/graph1.html
+
+### 324. Challenge: Add a Pixel to the Habit Tracker using a Post Request
+
+[Pixela API - Post a Pixel](https://pixela-docs.hatenablog.com/entry/post-pixel)
+
 </details>
