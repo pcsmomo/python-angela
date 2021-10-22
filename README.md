@@ -411,4 +411,19 @@ My Graph : https://pixe.la/v1/users/noahkim/graphs/graph1.html
 
 [Python Datetime - W3Schools](https://www.w3schools.com/python/python_datetime.asp)
 
+## Section 38: Day 38 - Intermediate+ Workout Tracking Using Google Sheets
+
+## 327. Day 38 Goals: what you will make by the end of the day
+
+[OpenAI API](https://openai.com/blog/openai-api/)
+
+- Python DateTime strftime()
+- APIs and making POST requests
+- Authorization Headers
+- Environment Variables
+
+- [Nutritionix API](https://www.nutritionix.com/business/api)
+- [Nutritionix API - DOC](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/preview)
+- [Sheety API](https://sheety.co/)
+
 </details>
