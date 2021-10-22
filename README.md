@@ -407,4 +407,8 @@ My Graph : https://pixe.la/v1/users/noahkim/graphs/graph1.html
 
 [Pixela API - Post a Pixel](https://pixela-docs.hatenablog.com/entry/post-pixel)
 
+### 325. Autofilling today's date using strftime
+
+[Python Datetime - W3Schools](https://www.w3schools.com/python/python_datetime.asp)
+
 </details>

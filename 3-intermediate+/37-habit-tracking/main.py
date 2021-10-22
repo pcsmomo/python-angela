@@ -1,4 +1,5 @@
 import requests
+from datetime import datetime
 
 USERNAME = "noahkim"
 TOKEN = "dkowiclasqjciasdfioeiraslkj"
@@ -37,13 +38,18 @@ headers = {
 # print(response.text)
 # # {"message":"Success.","isSuccess":true}
 
-# Step 3. https://pixe.la/v1/users/noahkim/graphs/graph1.html
+# Step 3. Look at my Reading graph
+# https://pixe.la/v1/users/noahkim/graphs/graph1.html
 
 # Step 4. Post a pixel
 pixel_creation_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}"
 
+today = datetime.now()
+# yesterday = datetime(year=2021, month=10, day=21)
+# print(yesterday.strftime("%Y%m%d"))
+
 pixel_data = {
-    "date": "20211022",
+    "date": today.strftime("%Y%m%d"),
     "quantity": "5"
 }
 
