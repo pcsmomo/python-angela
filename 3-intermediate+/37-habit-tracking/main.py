@@ -45,7 +45,7 @@ headers = {
 pixel_creation_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}"
 
 today = datetime.now()
-# yesterday = datetime(year=2021, month=10, day=21)
+yesterday = datetime(year=2021, month=10, day=21)
 # print(yesterday.strftime("%Y%m%d"))
 
 pixel_data = {
@@ -55,3 +55,23 @@ pixel_data = {
 
 response = requests.post(url=pixel_creation_endpoint, json=pixel_data, headers=headers)
 print(response.text)
+
+# Step 5. Update a pixel
+new_pixel_data = {
+    "quantity": "8"
+}
+
+update_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}/{yesterday.strftime('%Y%m%d')}"
+
+# response = requests.put(url=update_endpoint, json=new_pixel_data, headers=headers)
+# print(response.text)
+
+
+# Step 6. Delete a pixel
+yesterday = datetime(year=2021, month=10, day=21)
+# print(yesterday.strftime("%Y%m%d"))
+
+delete_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs/{GRAPH_ID}/{yesterday.strftime('%Y%m%d')}"
+
+# response = requests.delete(url=delete_endpoint, headers=headers)
+# print(response.text)
