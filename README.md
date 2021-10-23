@@ -428,6 +428,6 @@ My Graph : https://pixe.la/v1/users/noahkim/graphs/graph1.html
 
 ## Section 39: Day 39 - Intermediate+ Capstone Part 1: Flight Deal Finder
 
-### 334. Day 39 Goals: what you will make by the end of the day
+## Section 40: Day 40 - Intermediate+ Capstone Part 2: Flight Club
 
 </details>
