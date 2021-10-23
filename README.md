@@ -426,4 +426,8 @@ My Graph : https://pixe.la/v1/users/noahkim/graphs/graph1.html
 - [Nutritionix API - DOC](https://docs.google.com/document/d/1_q-K-ObMTZvO0qUEAxROrN3bwMujwAN25sLHwJzliK0/preview)
 - [Sheety API](https://sheety.co/)
 
+## Section 39: Day 39 - Intermediate+ Capstone Part 1: Flight Deal Finder
+
+### 334. Day 39 Goals: what you will make by the end of the day
+
 </details>
