@@ -19,4 +19,20 @@
 
 [Submarine Cable Map](https://www.submarinecablemap.com/)
 
+### 348. How Do Websites Actually Work?
+
+[Techcrunch - Tech News](https://techcrunch.com/)
+
+### 351. The Anatomy of an HTML Tag
+
+[devdocs.io](https://devdocs.io/)
+
+### 352. What we're building - HTML Personal Site
+
+[Internet Achieve](https://archive.org/web/)
+
+### 353. What is The HTML Boilerplate?
+
+[Unicode Table](https://unicode-table.com/en/)
+
 </details>
