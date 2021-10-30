@@ -49,4 +49,11 @@
 - [Colour Palettes](https://colorhunt.co/)
 - [Color - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
+### 371. Internal CSS
+
+Many tags are just boxes like <hr />
+
+- [CSS Default Values Reference](https://www.w3schools.com/cssref/css_default_values.asp)
+- [CSS border-style - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
+
 </details>
