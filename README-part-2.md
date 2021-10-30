@@ -35,4 +35,10 @@
 
 [Unicode Table](https://unicode-table.com/en/)
 
+## Section 42: Day 42 - Web Foundation - Intermediate HTML
+
+### 359. HTML Tables
+
+[Interactive Resume - Pascal van Gemert](https://www.pascalvangemert.nl/)
+
 </details>
