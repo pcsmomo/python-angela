@@ -41,4 +41,12 @@
 
 [Interactive Resume - Pascal van Gemert](https://www.pascalvangemert.nl/)
 
+## Section 43: Day 43 - Web Foundation - Introduction to CSS
+
+### 369. Inline CSS
+
+- [Well made Portfolio - Sean Designer](https://www.seanhalpin.design/)
+- [Colour Palettes](https://colorhunt.co/)
+- [Color - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+
 </details>
