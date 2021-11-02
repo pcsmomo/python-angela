@@ -56,4 +56,8 @@ Many tags are just boxes like <hr />
 - [CSS Default Values Reference](https://www.w3schools.com/cssref/css_default_values.asp)
 - [CSS border-style - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/border-style)
 
+## Section 44: Day 44 - Web Foundation - Intermediate CSS
+
+## Section 45: Day 45 - Intermediate+ Web Scraping with Beautiful Soup
+
 </details>
