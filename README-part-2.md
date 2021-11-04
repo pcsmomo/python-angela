@@ -58,6 +58,10 @@ Many tags are just boxes like <hr />
 
 ## Section 44: Day 44 - Web Foundation - Intermediate CSS
 
+### 379. What Are Favicons?
+
+[Favion.CC](https://www.favicon.cc/)
+
 ## Section 45: Day 45 - Intermediate+ Web Scraping with Beautiful Soup
 
 </details>
