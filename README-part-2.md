@@ -64,4 +64,10 @@ Many tags are just boxes like <hr />
 
 ## Section 45: Day 45 - Intermediate+ Web Scraping with Beautiful Soup
 
+### 398. Parsing HTML and Making Soup
+
+- [bs4 - Beautiful Soup Lib - Parse HTML file](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [pip bs4 install](https://pypi.org/project/beautifulsoup4/)
+- [pip lxml - parser](https://pypi.org/project/lxml/)
+
 </details>
