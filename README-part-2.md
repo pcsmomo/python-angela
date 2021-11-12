@@ -62,6 +62,12 @@ Many tags are just boxes like <hr />
 
 [Favion.CC](https://www.favicon.cc/)
 
+### 387. Adding Content to Our Website
+
+- [Lorem Ipsum Generator](https://loremipsum.io/)
+- [Flat Icon - Free Ventor Icons](https://www.flaticon.com/)
+- [GIPHY - GIFs](https://giphy.com/)
+
 ## Section 45: Day 45 - Intermediate+ Web Scraping with Beautiful Soup
 
 ### 398. Parsing HTML and Making Soup
