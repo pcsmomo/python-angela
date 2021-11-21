@@ -76,4 +76,15 @@ Many tags are just boxes like <hr />
 - [pip bs4 install](https://pypi.org/project/beautifulsoup4/)
 - [pip lxml - parser](https://pypi.org/project/lxml/)
 
+### 401. Is Web Scraping Legal?
+
+[reCAPCHA](https://www.google.com/recaptcha/about/)
+
+- It prevents web scraping
+
+- https://news.ycombinator.com/robots.txt
+- https://edition.cnn.com/robots.txt
+- https://www.linkedin.com/robots.txt
+- Many web site actually declare what's allowed or not
+
 </details>
