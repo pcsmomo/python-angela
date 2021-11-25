@@ -87,4 +87,10 @@ Many tags are just boxes like <hr />
 - https://www.linkedin.com/robots.txt
 - Many web site actually declare what's allowed or not
 
+## Section 46: Day 46 - Intermediate+ Create a Spotify Playlist using the Musical Time Machine
+
+### 404. Step 1 - Scraping the Billboard Hot 100
+
+[Billboard The Hot 100: 2013-12-31](https://www.billboard.com/charts/hot-100/2013-12-31/)
+
 </details>
