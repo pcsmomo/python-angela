@@ -96,6 +96,15 @@ Many tags are just boxes like <hr />
 
 ## Section 47: Day 47 - Intermediate+ Create an Automated Amazon Price Tracker
 
+> This would be useful!
+
+- [CamelCamelCamel - Amazon Price History](https://camelcamelcamel.com/)
 - [MY HTTP HEADER](http://myhttpheader.com/)
+
+```py
+# Stronger html parser
+import lxml
+soup = BeautifulSoup(response.content, "lxml")
+```
 
 </details>
