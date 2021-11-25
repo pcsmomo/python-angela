@@ -89,12 +89,8 @@ Many tags are just boxes like <hr />
 
 ## Section 46: Day 46 - Intermediate+ Create a Spotify Playlist using the Musical Time Machine
 
-### 404. Step 1 - Scraping the Billboard Hot 100
-
-[Billboard The Hot 100: 2013-12-31](https://www.billboard.com/charts/hot-100/2013-12-31/)
-
-### 405. Step 2 - Authentication with Spotify
-
-[Spotify for developers](https://developer.spotify.com/dashboard/)
-
+- [Billboard The Hot 100: 2013-12-31](https://www.billboard.com/charts/hot-100/2013-12-31/)
+- [Spotify for developers](https://developer.spotify.com/dashboard/)
+- [Spotify Documentation](https://spotipy.readthedocs.io/en/2.19.0/)
+- [Spotify Documentation - URI list](https://spotipy.readthedocs.io/en/2.13.0/#ids-uris-and-urls)
 </details>
