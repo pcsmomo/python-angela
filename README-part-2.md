@@ -93,4 +93,8 @@ Many tags are just boxes like <hr />
 
 [Billboard The Hot 100: 2013-12-31](https://www.billboard.com/charts/hot-100/2013-12-31/)
 
+### 405. Step 2 - Authentication with Spotify
+
+[Spotify for developers](https://developer.spotify.com/dashboard/)
+
 </details>
