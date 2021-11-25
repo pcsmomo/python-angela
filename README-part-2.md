@@ -93,4 +93,9 @@ Many tags are just boxes like <hr />
 - [Spotify for developers](https://developer.spotify.com/dashboard/)
 - [Spotify Documentation](https://spotipy.readthedocs.io/en/2.19.0/)
 - [Spotify Documentation - URI list](https://spotipy.readthedocs.io/en/2.13.0/#ids-uris-and-urls)
+
+## Section 47: Day 47 - Intermediate+ Create an Automated Amazon Price Tracker
+
+- [MY HTTP HEADER](http://myhttpheader.com/)
+
 </details>
