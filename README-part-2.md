@@ -107,4 +107,10 @@ import lxml
 soup = BeautifulSoup(response.content, "lxml")
 ```
 
+### 413. How to Find and Select Elements on a Website with Selenium
+
+- [find_element - Selenium-Python](https://selenium-python.readthedocs.io/locating-elements.html)
+- [XPath - W3Schools](https://www.w3schools.com/xml/xpath_intro.asp)
+  - chrome devTool -> mouse right click on an element -> Copy -> Copy XPath
+
 </details>
