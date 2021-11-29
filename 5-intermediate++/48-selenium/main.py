@@ -25,5 +25,18 @@ print(documentation_link.text)
 bug_link = driver.find_element(By.XPATH, '//*[@id="site-map"]/div[2]/div/ul/li[3]/a')
 print(bug_link.text)
 
+# Python.org Upcoming Events
+event_times = driver.find_elements(By.CSS_SELECTOR, ".event-widget li time")
+event_names = driver.find_elements(By.CSS_SELECTOR, ".event-widget li a")
+events = {}
+
+for n in range(len(event_times)):
+    events[n] = {
+        "time": event_times[n],
+        "name": event_names[n]
+    }
+
+print(events)
+
 # driver.close()  # close one tab
-# driver.quit()  # close whole window
+driver.quit()  # close whole window
