@@ -113,4 +113,9 @@ soup = BeautifulSoup(response.content, "lxml")
 - [XPath - W3Schools](https://www.w3schools.com/xml/xpath_intro.asp)
   - chrome devTool -> mouse right click on an element -> Copy -> Copy XPath
 
+### 417. The Cookie Clicker Project
+
+- [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
+- [Cookie Clicker Classic version](https://orteil.dashnet.org/experiments/cookie/)
+
 </details>
