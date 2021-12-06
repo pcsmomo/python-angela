@@ -6,8 +6,7 @@ from selenium.webdriver.common.by import By
 
 # from selenium.webdriver.common.keys import Keys
 
-chrome_driver_path = '/Users/noah/Documents/Study/Study_codes/udemy/python-angela/resources/5-intermediate++/' \
-                     '48-selenium-webdriver/chromedriver'
+chrome_driver_path = '/Users/noah/Documents/Study/Study_codes/udemy/python-angela/resources/chromedriver'
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service)
 
