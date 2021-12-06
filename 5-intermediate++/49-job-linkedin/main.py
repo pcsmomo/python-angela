@@ -14,6 +14,7 @@ driver = webdriver.Chrome(service=service)
 
 driver.get("https://www.linkedin.com/jobs/search/?f_LF=f_AL&geoId=102257491&keywords=python%20developer&location=London%2C%20England%2C%20United%20Kingdom&redirect=false&position=1&pageNum=0")
 
+time.sleep(2)
 sign_in_button = driver.find_element_by_link_text("Sign in")
 sign_in_button.click()
 
