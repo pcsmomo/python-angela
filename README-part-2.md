@@ -118,4 +118,23 @@ soup = BeautifulSoup(response.content, "lxml")
 - [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)
 - [Cookie Clicker Classic version](https://orteil.dashnet.org/experiments/cookie/)
 
+## Section 54: Day 54 - Intermediate+ Introduction to Web Development with Flask
+
+### 444. Understanding Backend Web Development with Python
+
+- Flask: Comparably smaller project
+- Django: Larger commercial project
+
+### 445. Create your First Web Server with Flask
+
+- [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+- [pypi flask](https://pypi.org/project/Flask/)
+
+```sh
+export FLASK_APP=hello.py
+/5-intermediate++/54-flask % . ../../venv/bin/activate
+flask run
+# Running on http://127.0.0.1:5000/
+```
+
 </details>
