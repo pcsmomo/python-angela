@@ -137,4 +137,8 @@ flask run
 # Running on http://127.0.0.1:5000/
 ```
 
+### 446. Understand the Command Line on Windows and Mac
+
+[Terminal Mac Cheatsheet](https://github.com/appbrewery/terminal-mac-cheatsheet)
+
 </details>
