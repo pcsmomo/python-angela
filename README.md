@@ -20,6 +20,8 @@
 5. Intermediate++
 6. Advanced
 
+## [Personal learning](./README-personal.md)
+
 ## PyCharm Shortcut
 
 ⇧ ⌃ ⌥ ⌘ ⬆️ ⬇️ ⬅️ ➡️

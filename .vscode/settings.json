@@ -1,0 +1,10 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": null,
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true
+  },
+  "python.defaultInterpreterPath": "/Users/noah/Library/Caches/pypoetry/virtualenvs/asyncio-A7ihOl0Z-py3.10/bin/python",
+  "python.analysis.extraPaths": ["app", "another/path/etc"],
+  "python.formatting.provider": "black"
+}
